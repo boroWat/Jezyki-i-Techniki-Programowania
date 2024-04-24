@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e17b157-fb8c-41f9-9fa4-0ccc413aac4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab3_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_4/src/Anchor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_4/src/AnchorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_4/src/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_4/src/FrequentNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_4/src/FrequentNamesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_4/src/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_4/src/NamesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_1/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_1/src/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_1/src/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_2/src/DoTrzechRazySztuka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_3/src/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_3/src/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_3/src/GruopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_3/src/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_3/src/LineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_3/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_3/src/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_3/src/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5_6_3/src/PolygonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7_8_1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsersServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2fZD8udHJw7wCkD8ipIRXNoVhQ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Users/Kuba/Desktop/studia wat/4/jtp/repo na gita/JTP/lab7_8_2/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Kuba\Desktop\studia wat\4\jtp\repo na gita\JTP\lab7_8_2\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e17b157-fb8c-41f9-9fa4-0ccc413aac4e" name="Changes" comment="" />
+      <created>1713999552395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713999552395</updated>
+    </task>
+    <servers />
+  </component>
+</project>

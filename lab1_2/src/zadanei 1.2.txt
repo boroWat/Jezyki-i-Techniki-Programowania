@@ -1,0 +1,9 @@
+1 [(args,[...]),(i,2)]main
+ 
+a [(i,2),(a,[2])]changei
+  [(args,[...]),(i,2),(return_i,0)]main
+ 
+b [(i,3),(a,[2])]changei
+  [(args,[...]),(i,2),(return_i,0)]main
+ 
+2 [(args,[...]),(i,2),(return_i,5]main
